@@ -1,8 +1,8 @@
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
-  "users": [
-    { "username": "mei", "releaseYear": "pass"},
+  "user": [
+    { "username": "mei", "password": "pass"},
   ]
 }
 
